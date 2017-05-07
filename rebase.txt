@@ -1,0 +1,8 @@
+Steps
+1.Add changes in master file and commit + push 
+2.Checkout to dev branch
+3.select rebase
+4.select master as rebase
+5.Do rebase
+
+
